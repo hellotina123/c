@@ -154,7 +154,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IVZfeIHwMEjzQ3ALkXOt-60" value="实践组结构" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="670" y="521" width="210" height="213" as="geometry" />
+          <mxGeometry x="620" y="557" width="210" height="213" as="geometry" />
         </mxCell>
         <mxCell id="IVZfeIHwMEjzQ3ALkXOt-61" value="站长������" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="IVZfeIHwMEjzQ3ALkXOt-60">
           <mxGeometry x="84.82352941176471" y="22.62817551963048" width="46.94117647058823" height="26.563510392609693" as="geometry" />
@@ -306,43 +306,43 @@
           <mxGeometry x="1878" y="1634" width="124" height="54" as="geometry" />
         </mxCell>
         <mxCell id="IVZfeIHwMEjzQ3ALkXOt-93" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="300" y="240" width="278" height="469" as="geometry" />
+          <mxGeometry x="240" y="220" width="350" height="550" as="geometry" />
         </mxCell>
         <mxCell id="IVZfeIHwMEjzQ3ALkXOt-22" value="理论课基础组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="IVZfeIHwMEjzQ3ALkXOt-93">
-          <mxGeometry x="54.80286738351254" width="71.74193548387096" height="24.023282887078004" as="geometry" />
+          <mxGeometry x="68.9964157706093" width="90.32258064516128" height="28.172293364377193" as="geometry" />
         </mxCell>
         <mxCell id="IVZfeIHwMEjzQ3ALkXOt-23" value="场景判断" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="IVZfeIHwMEjzQ3ALkXOt-93">
-          <mxGeometry x="58.29032258064515" y="51.32246798603027" width="58.78853046594981" height="64.42607683352736" as="geometry" />
+          <mxGeometry x="73.38709677419354" y="60.18626309662398" width="74.0143369175627" height="75.55296856810246" as="geometry" />
         </mxCell>
         <mxCell id="IVZfeIHwMEjzQ3ALkXOt-24" value="保持理论分组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="IVZfeIHwMEjzQ3ALkXOt-93">
-          <mxGeometry y="155.60535506402795" width="77.72043010752687" height="29.483119906868456" as="geometry" />
+          <mxGeometry y="182.47962747380674" width="97.84946236559136" height="34.57508731082655" as="geometry" />
         </mxCell>
         <mxCell id="IVZfeIHwMEjzQ3ALkXOt-25" value="转换实践分组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="IVZfeIHwMEjzQ3ALkXOt-93">
-          <mxGeometry x="102.63082437275983" y="155.60535506402795" width="77.72043010752687" height="29.483119906868456" as="geometry" />
+          <mxGeometry x="129.21146953405014" y="182.47962747380674" width="97.84946236559136" height="34.57508731082655" as="geometry" />
         </mxCell>
         <mxCell id="IVZfeIHwMEjzQ3ALkXOt-26" value="岗位化基础组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="IVZfeIHwMEjzQ3ALkXOt-93">
-          <mxGeometry x="102.63082437275983" y="212.38766006984866" width="77.72043010752687" height="29.483119906868456" as="geometry" />
+          <mxGeometry x="129.21146953405014" y="249.06868451688013" width="97.84946236559136" height="34.57508731082655" as="geometry" />
         </mxCell>
         <mxCell id="IVZfeIHwMEjzQ3ALkXOt-27" value="任务类型判断" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="IVZfeIHwMEjzQ3ALkXOt-93">
-          <mxGeometry x="104.12544802867382" y="269.1699650756694" width="74.73118279569893" height="81.89755529685682" as="geometry" />
+          <mxGeometry x="131.09318996415766" y="315.6577415599534" width="94.08602150537634" height="96.0419091967404" as="geometry" />
         </mxCell>
         <mxCell id="IVZfeIHwMEjzQ3ALkXOt-28" value="2-3人专项组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="IVZfeIHwMEjzQ3ALkXOt-93">
-          <mxGeometry x="4.483870967741935" y="390.9243306169966" width="73.23655913978494" height="29.483119906868456" as="geometry" />
+          <mxGeometry x="5.64516129032258" y="458.44004656577425" width="92.2043010752688" height="34.57508731082655" as="geometry" />
         </mxCell>
         <mxCell id="IVZfeIHwMEjzQ3ALkXOt-29" value="4-6人模块组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="IVZfeIHwMEjzQ3ALkXOt-93">
-          <mxGeometry x="102.63082437275983" y="390.9243306169966" width="73.23655913978494" height="29.483119906868456" as="geometry" />
+          <mxGeometry x="129.21146953405014" y="458.44004656577425" width="92.2043010752688" height="34.57508731082655" as="geometry" />
         </mxCell>
         <mxCell id="IVZfeIHwMEjzQ3ALkXOt-30" value="8-12人联合组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="IVZfeIHwMEjzQ3ALkXOt-93">
-          <mxGeometry x="200.77777777777777" y="390.9243306169966" width="77.2222222222222" height="29.483119906868456" as="geometry" />
+          <mxGeometry x="252.77777777777774" y="458.44004656577425" width="97.22222222222219" height="34.57508731082655" as="geometry" />
         </mxCell>
         <mxCell id="IVZfeIHwMEjzQ3ALkXOt-31" value="手摇道岔操作" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="IVZfeIHwMEjzQ3ALkXOt-93">
-          <mxGeometry x="9.465949820788529" y="447.70663562281726" width="63.27240143369175" height="21.293364377182773" as="geometry" />
+          <mxGeometry x="11.917562724014335" y="525.0291036088474" width="79.65949820788529" height="24.970896391152507" as="geometry" />
         </mxCell>
         <mxCell id="IVZfeIHwMEjzQ3ALkXOt-32" value="消防应急处置" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="IVZfeIHwMEjzQ3ALkXOt-93">
-          <mxGeometry x="107.61290322580643" y="447.70663562281726" width="63.27240143369175" height="21.293364377182773" as="geometry" />
+          <mxGeometry x="135.4838709677419" y="525.0291036088474" width="79.65949820788529" height="24.970896391152507" as="geometry" />
         </mxCell>
         <mxCell id="IVZfeIHwMEjzQ3ALkXOt-33" value="大客流管控" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="IVZfeIHwMEjzQ3ALkXOt-93">
-          <mxGeometry x="211.73835125448028" y="447.70663562281726" width="55.3010752688172" height="21.293364377182773" as="geometry" />
+          <mxGeometry x="266.5770609318996" y="525.0291036088474" width="69.62365591397848" height="24.970896391152507" as="geometry" />
         </mxCell>
         <mxCell id="IVZfeIHwMEjzQ3ALkXOt-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="IVZfeIHwMEjzQ3ALkXOt-93" source="IVZfeIHwMEjzQ3ALkXOt-22" target="IVZfeIHwMEjzQ3ALkXOt-23">
           <mxGeometry relative="1" as="geometry">
@@ -352,14 +352,14 @@
         <mxCell id="IVZfeIHwMEjzQ3ALkXOt-35" value="教室授课" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="IVZfeIHwMEjzQ3ALkXOt-93" source="IVZfeIHwMEjzQ3ALkXOt-23" target="IVZfeIHwMEjzQ3ALkXOt-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="38.86021505376343" y="135.9499417927823" />
+              <mxPoint x="48.92473118279568" y="159.42956926658908" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IVZfeIHwMEjzQ3ALkXOt-36" value="实训任务" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.94;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="IVZfeIHwMEjzQ3ALkXOt-93" source="IVZfeIHwMEjzQ3ALkXOt-23" target="IVZfeIHwMEjzQ3ALkXOt-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="141.4910394265233" y="135.9499417927823" />
+              <mxPoint x="178.13620071684585" y="159.42956926658908" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -376,21 +376,21 @@
         <mxCell id="IVZfeIHwMEjzQ3ALkXOt-39" value="微型任务" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.78;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="IVZfeIHwMEjzQ3ALkXOt-93" source="IVZfeIHwMEjzQ3ALkXOt-27" target="IVZfeIHwMEjzQ3ALkXOt-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="41.351254480286734" y="371.26891734575094" />
+              <mxPoint x="52.06093189964157" y="435.3899883585566" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IVZfeIHwMEjzQ3ALkXOt-40" value="中型任务" style="curved=1;startArrow=none;endArrow=block;exitX=0.48;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="IVZfeIHwMEjzQ3ALkXOt-93" source="IVZfeIHwMEjzQ3ALkXOt-27" target="IVZfeIHwMEjzQ3ALkXOt-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="139" y="371.26891734575094" />
+              <mxPoint x="175" y="435.3899883585566" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IVZfeIHwMEjzQ3ALkXOt-41" value="大型任务" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.78;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="IVZfeIHwMEjzQ3ALkXOt-93" source="IVZfeIHwMEjzQ3ALkXOt-27" target="IVZfeIHwMEjzQ3ALkXOt-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="239.13978494623652" y="371.26891734575094" />
+              <mxPoint x="301.07526881720423" y="435.3899883585566" />
             </Array>
           </mxGeometry>
         </mxCell>
