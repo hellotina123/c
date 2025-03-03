@@ -409,6 +409,21 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="IVZfeIHwMEjzQ3ALkXOt-98" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="880" y="270" width="54" height="216" as="geometry" />
+        </mxCell>
+        <mxCell id="IVZfeIHwMEjzQ3ALkXOt-94" value="理论组长" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="IVZfeIHwMEjzQ3ALkXOt-98">
+          <mxGeometry width="54" height="31.86885245901639" as="geometry" />
+        </mxCell>
+        <mxCell id="IVZfeIHwMEjzQ3ALkXOt-95" value="实践站长" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="IVZfeIHwMEjzQ3ALkXOt-98">
+          <mxGeometry y="61.377049180327866" width="54" height="31.86885245901639" as="geometry" />
+        </mxCell>
+        <mxCell id="IVZfeIHwMEjzQ3ALkXOt-96" value="理论组员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="IVZfeIHwMEjzQ3ALkXOt-98">
+          <mxGeometry y="122.75409836065573" width="54" height="31.86885245901639" as="geometry" />
+        </mxCell>
+        <mxCell id="IVZfeIHwMEjzQ3ALkXOt-97" value="实践岗员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="IVZfeIHwMEjzQ3ALkXOt-98">
+          <mxGeometry y="184.13114754098362" width="54" height="31.86885245901639" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
